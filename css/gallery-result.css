@@ -83,7 +83,7 @@ nav{
 /******************/
 
 footer{   
-  width:1200px;   /* 너비 */
+  width:100%;   /* 너비 */
   height:100px;  /* 높이 */
   border-top:2px solid #222;
 }
